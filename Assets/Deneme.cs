@@ -13,6 +13,6 @@ public class Deneme : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //Bu dosya deneme amacli ILKER FINDIK tarafından degistirilmistir.
     }
 }
