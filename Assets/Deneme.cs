@@ -8,6 +8,7 @@ public class Deneme : MonoBehaviour
     void Start()
     {
         Debug.Log("Merhabalarr!!!");
+        Debug.log("Bunu Barış yazdı.")
     }
 
     // Update is called once per frame
